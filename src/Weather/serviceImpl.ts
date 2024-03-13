@@ -10,7 +10,7 @@ import { WeatherService } from "./service";
 import axios from "axios";
 
 // to move in a .env file soon
-const API_KEY = "402c47570eed42efb27101840240602";
+const API_KEY = "your_secret_key";
 const BASE_URL = "http://api.weatherapi.com/";
 
 interface AXIOSConfig {
