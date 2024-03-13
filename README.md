@@ -5,7 +5,7 @@
 
 ## Demo
 
-
+![](demo.gif)
 
 
 
@@ -15,8 +15,6 @@ npm and expo are required for the package installation and management of depende
 
 - npm install (for installing dependencies)
 - npx expo start (for starting the app)
-
-To run the application on http://localhost:3000
 
 > Remember: for the correct execution of API calls to the  weather server, .env file in the root directory must be edited with your own API key (instead of your_secret_key). You can create one by signing in in https://weatherapi.com.
 
