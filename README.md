@@ -22,6 +22,16 @@ Have fun!
 
 
 
+## Troubleshooting
+
+#### Error: error TS6053: File '@tsconfig/react-native/tsconfig.json' not found.
+
+If this error shows up, install the following dependency and try to restart again:
+
+- npm install --save-dev @tsconfig/react-native
+
+
+
 ## Contribute
 
 If you'd like to share your thoughts and contribute on the project trying to implement further enhancements, please feel free to do it as much as you can. The project has got several bugs and vulnerabilities, due to the lack of testing and time I dedicated to it, but it'd be great to make it work better thanks to you! 
